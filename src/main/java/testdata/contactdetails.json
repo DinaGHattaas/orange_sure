@@ -1,0 +1,11 @@
+{
+  "country": "Egypt",
+  "city": "Giza",
+  "state": "Giza",
+  "zip": "11122",
+  "homeTelephone": "22222222",
+  "mobile": "22222222",
+  "workTelephone": "2222222",
+  "workEmail": "test@test.com",
+  "otherEmail": "test2@test.com"
+}
